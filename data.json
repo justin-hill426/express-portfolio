@@ -1,0 +1,17 @@
+{
+    "projects": [
+        {
+            "id" : 0,
+            "project_name" : "Random Quote Generator",
+            "description" : "Generates Random Quotes",
+            "technologies" : ["HTML", "CSS", "JavaScript"],
+            "live_link" : "http:idontknow.com",
+            "github_link" : "Love to see it",
+            "image_urls" : "I don't know"
+        }
+
+
+    ]
+
+
+}
