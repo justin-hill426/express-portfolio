@@ -7,11 +7,43 @@
             "technologies" : ["HTML", "CSS", "JavaScript"],
             "live_link" : "http:idontknow.com",
             "github_link" : "Love to see it",
+            "image_urls" : "/static/images/randomQuoteGenerator.png"
+        },
+        {
+            "id" : 1,
+            "project_name" : "Data Pagination",
+            "description" : "Developed skills adding pagination functionality to a webpage",
+            "technologies" : ["HTML", "CSS", "JavaScript"],
+            "live_link" : "http:idontknow.com",
+            "github_link" : "Love to see it",
+            "image_urls" : "I don't know"
+        },
+        {
+            "id" : 2,
+            "project_name" : "Interactive Form",
+            "description" : "Learned to create an interactive form using dynamic JavaScript",
+            "technologies" : ["HTML", "CSS", "JavaScript", "Regex"],
+            "live_link" : "http:idontknow.com",
+            "github_link" : "Love to see it",
+            "image_urls" : "I don't know"
+        },
+        {
+            "id" : 3,
+            "project_name" : "GameShow App",
+            "description" : "Implemented Word Hunter game app on a webpage",
+            "technologies" : ["HTML", "CSS", "JavaScript"],
+            "live_link" : "http:idontknow.com",
+            "github_link" : "Love to see it",
+            "image_urls" : "I don't know"
+        },
+        {
+            "id" : 4,
+            "project_name" : "API Startup",
+            "description" : "Developed API skills to interact with other Data Bases",
+            "technologies" : ["HTML", "CSS", "JavaScript"],
+            "live_link" : "http:idontknow.com",
+            "github_link" : "Love to see it",
             "image_urls" : "I don't know"
         }
-
-
     ]
-
-
 }
