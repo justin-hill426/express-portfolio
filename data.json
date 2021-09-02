@@ -5,8 +5,8 @@
             "project_name" : "Random Quote Generator",
             "description" : "Generates Random Quotes",
             "technologies" : ["HTML", "CSS", "JavaScript"],
-            "live_link" : "http:idontknow.com",
-            "github_link" : "Love to see it",
+            "live_link" : "https://github.com/justin-hill426/QuoteGenerator",
+            "github_link" : "https://github.com/justin-hill426/QuoteGenerator",
             "image_urls" : "/static/images/randomQuoteGenerator.png"
         },
         {
@@ -14,36 +14,36 @@
             "project_name" : "Data Pagination",
             "description" : "Developed skills adding pagination functionality to a webpage",
             "technologies" : ["HTML", "CSS", "JavaScript"],
-            "live_link" : "http:idontknow.com",
-            "github_link" : "Love to see it",
-            "image_urls" : "I don't know"
+            "live_link" : "https://github.com/justin-hill426/DataPagination",
+            "github_link" : "https://github.com/justin-hill426/DataPagination",
+            "image_urls" : "/static/images/dataPagination.png"
         },
         {
             "id" : 2,
             "project_name" : "Interactive Form",
             "description" : "Learned to create an interactive form using dynamic JavaScript",
             "technologies" : ["HTML", "CSS", "JavaScript", "Regex"],
-            "live_link" : "http:idontknow.com",
-            "github_link" : "Love to see it",
-            "image_urls" : "I don't know"
+            "live_link" : "https://github.com/justin-hill426/InteractiveForm",
+            "github_link" : "https://github.com/justin-hill426/InteractiveForm",
+            "image_urls" : "/static/images/interactiveForm.png"
         },
         {
             "id" : 3,
             "project_name" : "GameShow App",
             "description" : "Implemented Word Hunter game app on a webpage",
             "technologies" : ["HTML", "CSS", "JavaScript"],
-            "live_link" : "http:idontknow.com",
-            "github_link" : "Love to see it",
-            "image_urls" : "I don't know"
+            "live_link" : "https://github.com/justin-hill426/GameShowApp",
+            "github_link" : "https://github.com/justin-hill426/GameShowApp",
+            "image_urls" : "/static/images/phraseHunter.png"
         },
         {
             "id" : 4,
             "project_name" : "API Startup",
             "description" : "Developed API skills to interact with other Data Bases",
             "technologies" : ["HTML", "CSS", "JavaScript"],
-            "live_link" : "http:idontknow.com",
-            "github_link" : "Love to see it",
-            "image_urls" : "I don't know"
+            "live_link" : "https://github.com/justin-hill426/APIProject",
+            "github_link" : "https://github.com/justin-hill426/APIProject",
+            "image_urls" : "/static/images/employeeDirectory.png"
         }
     ]
 }

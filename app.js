@@ -8,8 +8,11 @@ app.use("/static", express.static("public"))
 
 app.get("/", (req, res) => {
     res.locals.projects = data.projects;
-    console.log(res.locals.projects);
     res.render("index");
+})
+
+app.get("/about", (req, res) => {
+    res.render("about");
 })
 
 app.listen(process.env.PORT || 3000, () =>
